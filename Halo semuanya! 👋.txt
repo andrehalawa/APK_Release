@@ -1,0 +1,19 @@
+Halo semuanya! 👋
+
+Dengan senang hati saya mempersembahkan versi awal dari aplikasi KawalLansia (Beta v0.1).
+
+Aplikasi ini dirancang untuk membantu mendampingi dan memudahkan perawatan lansia agar lebih terorganisir dan penuh perhatian. Karena aplikasi ini masih dalam tahap pengembangan awal, dukungan dan partisipasi teman-teman sekalian sangat berarti bagi saya.
+
+Yuk, bantu coba dan beri masukan!
+
+Unduh file KawalLansia_vBeta1.apk di bawah ini dan pasang di ponsel Android kamu.
+
+Coba jalankan fitur-fitur yang ada di dalamnya.
+
+Sampaikan kritik, saran, temuan bug, maupun ide masukan melalui kolom Issues di GitHub ini atau langsung hubungi saya.
+
+Setiap umpan balik dari kamu akan menjadi bahan evaluasi yang sangat berharga untuk membawa KawalLansia menjadi aplikasi yang semakin bermanfaat, nyaman, dan ramah pengguna.
+
+Bagi teman-teman yang membutuhkan source code dari aplikasi silahkan hubungi WA saya ya kak 087882932344
+
+Terima kasih banyak atas waktu dan dukungannya! 🙏✨
